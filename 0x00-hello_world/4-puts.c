@@ -1,4 +1,8 @@
-/* use puts to display*/
+/**
+*main -Main function
+*
+*Return:0 on success
+*/
 
 #include <stdio.h>
 
