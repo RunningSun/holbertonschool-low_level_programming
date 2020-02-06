@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 /**
- * main-function
+ * main - function
  *
- * Retrun:0
+ * Return: 0
  */
-
 int main(void)
 {
 	int n;
