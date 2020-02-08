@@ -1,10 +1,10 @@
-/**
-*main -Main function
-*
-*Return:0 on success
-*/
-
 #include <stdio.h>
+
+/**
+* main -Main function
+*
+* Return:0 on success
+*/
 
 int main(void)
 {
