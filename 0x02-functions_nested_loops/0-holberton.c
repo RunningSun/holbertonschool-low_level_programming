@@ -9,15 +9,12 @@
 
 int main(void)
 	{
-	putchar (72);
-	putchar (111);
-	putchar (108);
-	putchar (98);
-	putchar (101);
-	putchar (114);
-	putchar (116);
-	putchar (111);
-	putchar (110);
-	putchar ('\n');
+		int i = 0;
+		char s[] = "Holberton\n";
+	while (s[i] != '\0')
+	{
+		_putchar(s[i]);
+		i++;
+	}
 	return (0);
 	}
