@@ -3,7 +3,7 @@
 /**
   * print_alphabet - prints out the alphabet with a new line
   * Description: Uses headers to link to another function
-  * Return: 0 when well done
+  * Return: void
   */
 
 void print_alphabet(void)
