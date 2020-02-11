@@ -2,6 +2,9 @@
 
 /**
   * main - tests function that prints if integer is positive or negative
+  * @c: an int that is pass from the main file
+  *
+  * Description: Uses header to link to another function
   * Return: 0
   */
 
