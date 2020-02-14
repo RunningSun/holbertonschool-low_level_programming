@@ -4,6 +4,7 @@
  * main - fizz buzz
  * multiples of three print Fizz,multiples of five print Buzz
  * multiples of both three and five print FizzBuzz
+ *
  * Description: Uses headers to link function
  * Return: 0
  */
@@ -15,10 +16,10 @@ int main(void)
 	for (i = 1; i <= 100; i++)
 	{
 		if (i % 15 == 0)
-		printf("FizzBuzz");
+			printf("FizzBuzz");
 		else if (i % 3 == 0)
 			printf("Fizz");
-		else if (i % 5 == 0);
+		else if (i % 5 == 0)
 			printf("Buzz");
 		else
 			printf("%d", i);
